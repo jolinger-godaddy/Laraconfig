@@ -12,9 +12,9 @@
   ],
   "require": {
     "php": ">=8.0",
-    "illuminate/database": "^8.43",
-    "illuminate/support": "^8.43",
-    "illuminate/cache": "^8.43",
+    "illuminate/database": "^9.x",
+    "illuminate/support": "^9.x",
+    "illuminate/cache": "^9.x",
     "symfony/console": "^5.3"
   },
   "require-dev": {
